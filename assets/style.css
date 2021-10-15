@@ -1,0 +1,43 @@
+
+.navbar {
+    background-color: rgb(22, 105, 182);
+}
+
+.nav-link {
+    color: rgb(53, 53, 53);
+}
+
+.nav-link:hover {
+    color: rgb(138, 138, 138);
+}
+
+.profile-pic {
+    max-height: 500px;
+}
+
+.p-height {
+    line-height: 125%;
+    font-size: 115%;
+}
+
+.screenshot {
+    max-width: 100%;
+}
+
+section nav {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid midnightblue;
+    border-radius: 15px;
+    padding: 10px 0;
+}
+
+section nav a {
+    font-weight: bold;
+    line-height: 2.0;
+}
+
+footer {
+    color: rgb(108, 244, 253);
+    background-color: rgb(22, 105, 182);
+}
