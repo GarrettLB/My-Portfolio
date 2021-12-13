@@ -1,20 +1,18 @@
 
 .navbar {
-    background-color: rgb(22, 105, 182);
+    background-color: rgb(233, 233, 233);
 }
 
 .bg {
     background-color: rgb(233, 233, 233);
 }
 
-/* rgb(69, 153, 233) */
-
 .link {
     color: rgb(24, 23, 23);
 }
 
 .link:hover {
-    color: rgb(138, 138, 138);
+    color: rgb(22, 105, 182);
 }
 
 .profile-pic {
@@ -45,5 +43,5 @@ section nav a {
 
 footer {
     color: rgb(53, 53, 53);
-    background-color: rgb(22, 105, 182);
+    background-color: rgb(233, 233, 233);
 }
