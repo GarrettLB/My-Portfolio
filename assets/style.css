@@ -3,11 +3,17 @@
     background-color: rgb(22, 105, 182);
 }
 
-.nav-link {
-    color: rgb(53, 53, 53);
+.bg {
+    background-color: rgb(233, 233, 233);
 }
 
-.nav-link:hover {
+/* rgb(69, 153, 233) */
+
+.link {
+    color: rgb(24, 23, 23);
+}
+
+.link:hover {
     color: rgb(138, 138, 138);
 }
 
